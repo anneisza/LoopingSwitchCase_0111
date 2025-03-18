@@ -15,10 +15,5 @@ int main() {
        {
            cout << "Nilai i ="<< i <<" Lari Keliling Lapangan" << endl;
        }
-       cout << "Nilai i terakhir : "<< i << endl;
-       
-       
-       
-
-    
+       cout << "Nilai i terakhir : "<< i << endl; 
 }
