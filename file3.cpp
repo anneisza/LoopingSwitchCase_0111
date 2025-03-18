@@ -1,11 +1,13 @@
 #include <iostream>
 using namespace std;
 
-float luasPersegiPanjang(float x, float y){
+float luasPersegiPanjang(float x, float y)
+{
     return x * y;
 }
 
-float luasLingkaran(float x){
+float luasLingkaran(float x)
+{
     return 3.14 * x * x;
 }
 
@@ -43,7 +45,7 @@ int main ()
         case 3 :
             break;
         default:
-            cout << "Pilihan anda salah" << endl;
+            cout << "Pi2lihan anda salah" << endl;
             break;
         }
 
